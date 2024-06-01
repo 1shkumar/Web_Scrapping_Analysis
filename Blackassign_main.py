@@ -1,7 +1,6 @@
 #Code Contrtibuted By Vansh Kumar
 #email_id:1) vanshkr22@gmail.com  2)vansh.kumar.ug21@nsut.ac.in
 #contact_no: +91-9311610564
-#Blackcoffer Intern Test Assignment
 
 #For approach and dependecies of this code an Instruction.pdf is also submitted
 
